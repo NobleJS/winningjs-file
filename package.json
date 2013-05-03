@@ -1,0 +1,29 @@
+{
+  "name": "winningjs-file",
+  "description": "File type association for WinJS Windows 8 development made easy. Use as a plugin for WinningJS or on its own.",
+  "version": "0.0.1",
+  "author": {
+    "name": "NobleJS"
+  },
+  "contributors": [
+    {
+      "name": "Donavon West",
+      "email": "github@donavon.com",
+      "url": "http://donavon.com/"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NobleJS/winningjs-file.git"
+  },
+  "bugs": {
+    "url": "http://github.com/NobleJS/winningjs-file/issues"
+  },
+  "directories": {
+    "lib": "./lib"
+  },
+  "main": "./lib/index.js",
+  "dependencies": {
+    "pubit-as-promised": ">= 1.0.0"
+  }
+}
